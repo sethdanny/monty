@@ -269,3 +269,5 @@ File(s): [`1003-mul.bf`](https://github.com/nadduli/monty/blob/main/bf/1003-mul.
 
 ### Authors
 Nadduli Daniel
+Fatima Shuaib
+
